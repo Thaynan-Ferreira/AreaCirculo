@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author univicosa
+ * @author Thaynan
  */
 public class CalcCirculo {
     public static void main(String[] args) {
